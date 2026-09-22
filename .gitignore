@@ -1,0 +1,14 @@
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.out
+*.o
+
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+
+.vscode/ipch/
+.vscode/.browse.VC.db
