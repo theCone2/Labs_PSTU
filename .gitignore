@@ -12,3 +12,5 @@ CMakeCache.txt
 
 .vscode/ipch/
 .vscode/.browse.VC.db
+
+.vscode/
