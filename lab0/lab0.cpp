@@ -1,5 +1,7 @@
 #include <iostream>
+
 int main() {
-std::cout << "Hello, C++!" << std::endl;
-return 0;
+    // Изменено на main ветке
+    std::cout << "Привет, мир!" << std::endl;
+    return 0;
 }
